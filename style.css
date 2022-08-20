@@ -1,24 +1,45 @@
 .grid-container {
     display: grid;
     height: 98vh;
-    width: 100vw;
+    width: 70%;
     margin: auto;
     gap: 14px;
     grid-template-columns: 10fr;
-    grid-template-rows: 60px 60px 10fr 10fr;
+    grid-template-rows: 80%;
     grid-template-areas:
-    'hd'
-    'n'
-    'm'
-    'ft'
+    'hd hd'
+    'n n'
+    'm m'
+    'ft ft'
 }
 
-nav {background-color: cornflowerblue;
+body {
+    background-color: aqua;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+header {
+    grid-area: hd;
+    border-radius: 0%;
+}
+nav {
+    grid-area: n;
+    background-color: cornflowerblue;
+    border-radius: 0%;
+    height: 5vh;
 }
 main {
+    grid-area: m;
     background-color: chartreuse;
+    
+}
+footer {
+    grid-area: ft;
 }
 
+
 img {
-    width: 60px;
+    width: 100%;
+    padding-bottom: auto;
 }
