@@ -22,6 +22,8 @@ body {
 header {
     grid-area: hd;
     border-radius: 0%;
+    position:fixed
+    z-index: 1;
 }
 nav {
     grid-area: n;
