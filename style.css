@@ -1,0 +1,24 @@
+.grid-container {
+    display: grid;
+    height: 98vh;
+    width: 100vw;
+    margin: auto;
+    gap: 14px;
+    grid-template-columns: 10fr;
+    grid-template-rows: 60px 60px 10fr 10fr;
+    grid-template-areas:
+    'hd'
+    'n'
+    'm'
+    'ft'
+}
+
+nav {background-color: cornflowerblue;
+}
+main {
+    background-color: chartreuse;
+}
+
+img {
+    width: 60px;
+}
