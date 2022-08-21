@@ -3,9 +3,9 @@
     height: 98vh;
     width: 70%;
     margin: auto;
-    gap: 14px;
+    gap: 0px;
     grid-template-columns: 10fr;
-    grid-template-rows: 80%;
+    grid-template-rows: 70%;
     grid-template-areas:
     'hd hd'
     'n n'
@@ -14,20 +14,21 @@
 }
 
 body {
-    background-color: aqua;
-    margin: 0;
     overflow-x: hidden;
+    margin: 0%;
 }
 
 header {
     grid-area: hd;
     border-radius: 0%;
-    position:fixed
+    position:fixed;
+    margin-right: 15%;
     z-index: 1;
+    background-color: red;
 }
 nav {
     grid-area: n;
-    background-color: cornflowerblue;
+    background-color: aqua;
     border-radius: 0%;
     height: 5vh;
 }
