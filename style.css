@@ -21,8 +21,8 @@ body {
 header {
     grid-area: hd;
     border-radius: 0%;
-    position:fixed;
     margin-right: 15%;
+    position:fixed;
     z-index: 1;
     background-color: red;
 }
@@ -31,6 +31,8 @@ nav {
     background-color: aqua;
     border-radius: 0%;
     height: 5vh;
+    position: fixed;
+    z-index: 1;
 }
 main {
     grid-area: m;
@@ -44,5 +46,5 @@ footer {
 
 img {
     width: 100%;
-    padding-bottom: auto;
+    padding-bottom: 0;
 }
