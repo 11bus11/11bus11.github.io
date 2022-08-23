@@ -31,13 +31,12 @@ header {
 }
 nav {
     grid-area: n;
+    width:auto;
     margin-top: .4vh;
     background-color: transparent;
     border-radius: 0%;
-    margin-left: 22vw;
-    margin-right: 2vw;
     height: 20vh;
-    position: fixed;
+    position: fixed relative;
     z-index: 1;
 }
 main {
@@ -67,6 +66,8 @@ footer {
 }
 
 .navigation {
-    position: relative;
-    left: 10px;
+    width: 15%;
+    height: 30vh;
+    margin: 5%;
+    display: inline-block;
 }
