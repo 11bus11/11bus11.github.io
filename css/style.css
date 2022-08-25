@@ -45,13 +45,13 @@ main {
     grid-area: m;
     background-color: chartreuse;
     margin-top: 0;
-    margin-left: 5vw;
-    margin-right: 5vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 footer {
     grid-area: ft;
-    margin-left: 5vw;
-    margin-right: 5vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
 #logo {
@@ -59,16 +59,34 @@ footer {
     border-radius: 50%;
 }
 
+h2 {
+    padding: 0;
+}
+
 .navigation {
-    width: 10vw;
-    height: 5vw;
-    margin-left: 5%;
-    margin-right: 5%;
+
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50%;
     background-color: aqua;
     display: inline-block;
     position: sticky;
 }
 
 p {
-    font-size: 1.5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7vw;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }
