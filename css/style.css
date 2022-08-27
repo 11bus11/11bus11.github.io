@@ -60,7 +60,7 @@ main {
 }
 footer {
     grid-area: ft;
-    background-color: white;
+    background-color: lightgreen;
 }
 
 /*header and navigation css*/
@@ -80,6 +80,18 @@ footer {
     background-color: lightgreen;
     display: inline-block;
     position: sticky;
+}
+
+/*footer layout*/
+.foot-block {
+    display: inline-block;
+    text-align: center;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+
+#copyright {
+    text-align: left;
 }
 
 /*text css*/
