@@ -60,7 +60,7 @@ main {
 }
 footer {
     grid-area: ft;
-    background-color: white;
+    background-color: lightgreen;
 }
 
 /*header and navigation css*/
@@ -68,7 +68,6 @@ footer {
     width: 15vw;
     border-radius: 50%;
 }
-
 .navigation {
 
     margin-left: 3%;
@@ -82,6 +81,17 @@ footer {
     position: sticky;
 }
 
+/*footer layout*/
+.foot-block {
+    display: inline-block;
+    text-align: center;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#copyright {
+    text-align: left;
+}
+
 /*text css*/
 p {
     font-family: Arial, Helvetica, sans-serif;
@@ -89,16 +99,22 @@ p {
     padding-left: 5vw;
     padding-right: 5vw;
 }
-
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 3vw;
+}
+h3 {
+    font-size: 2vw;
+}
 h1, h2, h3{
     font-family: Arial, Helvetica, sans-serif;
 }
-
 h2, h3 {
     padding-left: 5vw;
     padding-right: 5vw;
 }
-
 a {
     color: black;
     text-decoration: none;
