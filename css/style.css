@@ -12,7 +12,7 @@
 .grid-container {
     display: grid;
     height: 98vh;
-    width: 98vw;
+    width: 100vw;
     margin: auto;
     gap: 0px;
     grid-template-columns: 5fr 20fr;
@@ -85,7 +85,7 @@ footer {
 /*text css*/
 p {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.8vw;
+    font-size: 1.7vw;
     padding-left: 5vw;
     padding-right: 5vw;
 }
@@ -117,12 +117,17 @@ a {
     margin: 0%;
 }
 
-@media screen and (max-width: 765px) {
-    .grid-container {
-        width: 100vw;
-    }
+/*social media icons*/
+.social {
+    width: 5vw;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/*mobile phones and smaller windows css*/
+@media screen and (max-width: 650px) {
     h1 {
-        font-size: 45px;
+        font-size: 5vw;
     }
     h2 {
         font-size: 8vw;
@@ -131,6 +136,10 @@ a {
         font-size: 6vw;
     }
     p {
-        font-size: 4.5vw;
+        font-size: 4.4vw;
+    }
+
+    .social {
+        width: 8vw;
     }
 }
