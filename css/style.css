@@ -60,6 +60,7 @@ main {
 }
 footer {
     grid-area: ft;
+    text-align: center;
     background-color: lightgreen;
 }
 
@@ -79,17 +80,6 @@ footer {
     background-color: lightgreen;
     display: inline-block;
     position: sticky;
-}
-
-/*footer layout*/
-.foot-block {
-    display: inline-block;
-    text-align: center;
-    padding-top: 0%;
-    margin-top: 0%;
-}
-#copyright {
-    text-align: left;
 }
 
 /*text css*/
@@ -125,4 +115,22 @@ a {
     width: 100vw;
     padding: 0%;
     margin: 0%;
+}
+
+@media screen and (max-width: 765px) {
+    .grid-container {
+        width: 100vw;
+    }
+    h1 {
+        font-size: 45px;
+    }
+    h2 {
+        font-size: 8vw;
+    }
+    h3 {
+        font-size: 6vw;
+    }
+    p {
+        font-size: 4.5vw;
+    }
 }
