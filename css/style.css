@@ -34,7 +34,6 @@ header {
     grid-area: hd;
     margin-top: .4vh;
     border-radius: 0%;
-    margin-left: 2vw;
     height: 20vh;
     width: 100%;
     background-color: transparent;
@@ -45,12 +44,13 @@ nav {
     grid-area: n;
     width:80vw;
     margin-top: 1vh;
-    margin-left: 20vw;
-    margin-right: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
     background-color: transparent;
     border-radius: 0%;
     height: 50px;
     position: fixed;
+    text-align: center;
     z-index: 1;
 }
 main {
@@ -65,10 +65,6 @@ footer {
 }
 
 /*header and navigation css*/
-#logo {
-    width: 15vw;
-    border-radius: 50%;
-}
 .navigation {
 
     margin-left: 3%;
@@ -79,7 +75,8 @@ footer {
     border-radius: 50%;
     background-color: lightgreen;
     display: inline-block;
-    position: sticky;
+    text-align: center;
+    
 }
 
 /*text css*/
@@ -124,7 +121,10 @@ a {
     margin-right: 15px;
 }
 
-/*mobile phones and smaller windows css*/
+/*tablets and smaller windows css*/
+
+
+/*mobile phones css*/
 @media screen and (max-width: 650px) {
     h1 {
         font-size: 5vw;
@@ -141,5 +141,13 @@ a {
 
     .social {
         width: 8vw;
+    }
+    nav {
+        width: 100vw;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .navigation {
+        margin: 1vw;
     }
 }
