@@ -4,9 +4,9 @@ When people adopt cats it can sometimes seem a bit daunting to learn the most im
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 Navigation bar:
-Always visible at the top of the page.
-The different buttons link to different topics on the page.
-The round picture links to the top of the page.
+- Always visible at the top of the page.
+- The different buttons link to different topics on the page.
+- The round picture links to the top of the page.
 
 Topic images:
 One image for every topic.
