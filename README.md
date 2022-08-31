@@ -4,7 +4,6 @@ When people adopt cats it can sometimes seem a bit daunting to learn the most im
 (assets/media/responsive_about_cats.PNG)
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Navigation bar
 - Always visible at the top of the page.
@@ -33,15 +32,14 @@ In this section, you should go over the different parts of your project, and des
 Tested all features on many different screen sizes. Also tried it on my phone with no problems. The page looks best on mobile, but looks and works well on every screen size. All features work as intended regardless of screen size and/or device. The navigation is easy to understand on all screen sizes.
 (insert picture of “amIResponsive” and mobile screenshots)
 
-The background does show more the smaller the screen gets. This, however, does not create a problem for the user. This has not been addressed yet.
+The background did show more the smaller the screen gets. I adressed this with my media querries. Depending on the screen size, the top margin for the main page changes. This way the background looks good regardless of screen size.
 
 ### Validator testing
 - Tested HTML in the W3C validator. Returned no errors.
 - Tested CSS in the official Jigsaw validator. Found no errors.
 
 ### Unfixed bugs
-- More or less of the background is visible depending on the screen size. This has not been solved yet due to it not causing any major problems.
-- The round picture links to the first paragraph, which means that when you click it the background picture doesn't show. The bug mentioned above has to be addressed before this one can be solved.
+- The "home button" links to the first paragraph, which means that when you click on it the background picture doesn't show. This has not been adressed yet due to the fact that i havn't decided how i want to adress it.
 
 ### Deployment
 This site was deployed to github pages.
