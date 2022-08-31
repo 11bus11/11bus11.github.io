@@ -3,7 +3,7 @@ When people adopt cats it can sometimes seem a bit daunting to learn the most im
 ![Responsice Mockup] 
 (assets/media/responsive_about_cats.PNG)
 
-## Existing features
+## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Navigation bar
@@ -26,7 +26,7 @@ In this section, you should go over the different parts of your project, and des
 - Links to social media (opens in new tab).
 - Copyright information.
 
-### Features left to implement:
+## Features left to implement:
 - Might want to add a form for sending in questions.
 - Other than that I just want to add more information to the page, since it’s meant to be a simple page for getting information.
 ## Testing
