@@ -10,27 +10,31 @@ When people adopt cats it can sometimes seem a bit daunting to learn the most im
 - The different buttons link to different topics on the page.
 - The round picture links to the top of the page.
 
-### Topic images:
+### Topic images
 - One image for every topic.
 - Separate the sections.
 - Background image visible at the top of the page.
 
-### Main section:
+### Main section
 - Different information about cats.
 - Topics separated by images.
 - Q&A section.
 
-### Footer:
+### Footer
 - Contact information.
 - Links to social media (opens in new tab).
 - Copyright information.
 
-## Features left to implement:
+## Features left to implement
 - Might want to add a form for sending in questions.
-- Other than that I just want to add more information to the page, since it’s meant to be a simple page for getting information.
+- I want to add more information to the page, since it’s meant to be a page for getting information. If i do this i might create a hamburger menue (depending on the number of topics).
+- A quiz might be interesting to add at some point.
+
 ## Testing
 Tested all features on many different screen sizes. Also tried it on my phone with no problems. The page looks best on mobile, but looks and works well on every screen size. All features work as intended regardless of screen size and/or device. The navigation is easy to understand on all screen sizes.
 (insert picture of “amIResponsive” and mobile screenshots)
+
+### Device testing
 
 The background did show more the smaller the screen gets. I adressed this with my media querries. Depending on the screen size, the top margin for the main page changes. This way the background looks good regardless of screen size.
 
@@ -38,17 +42,26 @@ The background did show more the smaller the screen gets. I adressed this with m
 - Tested HTML in the W3C validator. Returned no errors.
 - Tested CSS in the official Jigsaw validator. Found no errors.
 
+### Fixed bugs
+- I had a problem with getting the footer thru the validator without errors. This was because i had chosen to use a span around the footer's content instead of a div. But in the end I didnt use either (since i changed my mind about how i wanted it to look).
+- I also had a problem with my media querries. They would not work. This was because i had messed up a metta tag in the header of my HTML. When i fixed the meta tag, the media querries worked as expected and the CSS validator did not show any errors.
+
 ### Unfixed bugs
 - The "home button" links to the first paragraph, which means that when you click on it the background picture doesn't show. This has not been adressed yet due to the fact that i havn't decided how i want to adress it.
 
 ### Deployment
 This site was deployed to github pages.
-- Open repository setting.
+- Open the repository setting on.
 - Go to "pages" (found under "code and automation").
 - Choose which branch to build from (main).
-- (If needed, choose a custom domain)
+- (If needed, choose a custom domain)-
+- Open the repository in github desktop (i used github desktop. You can do this in git too.) 
+- Choose to create a local clone (the first time you open your repository in github desktop, there should be a window asking if you want to create a clone)
+- Copy the link to your deployed website (can be found in hte github pages settings, where you chose which branch to build from) and make sure its operating as expected.
+- The deployed website will now be updated whe you push anything new to the repository.
 
-Link to the live page: https://11bus11.github.io/
+Link to the live website: https://11bus11.github.io/
+
 ## Credits
 ### Content
 - The code for the css grid was taken from one of my old projects (https://github.com/bus0211/wu2Bprojekt2020). Project from a web development course in socondary school. The reason it is forked from another user (my teacher) is that he wanted to have easy acces to the whole class' projects.
