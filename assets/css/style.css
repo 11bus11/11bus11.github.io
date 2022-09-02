@@ -125,6 +125,10 @@ a {
 
 /*tablets and smaller windows css*/
 @media screen and (max-width: 900px) and (min-width: 650px){
+    /*Grid area CSS*/
+    main {
+        margin-top: -20vh;
+    }
     /*content css*/
     h2 {
         font-size: 5.8vw;
