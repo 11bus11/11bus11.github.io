@@ -59,27 +59,58 @@ Tested all features on many different screen sizes. Also tried it on my phone wi
 
 ### User stories
 - Be able to figure out what the page is about right away.
-- - When you first land on the page the background picture (showing an orange cat) and the home page is visible. The title on the home page is "About cats". 
+  - When you first land on the page the background picture (showing an orange cat) and the home page is visible. The title on the home page is "About cats". 
 - Understamd how to navigate the site without any issues.
-- - The header contains a navigation bar with clear topics. And if you dont want to use that you can still get to the topics by scrolling down.
+  - The header contains a navigation bar with clear topics. And if you dont want to use that you can still get to the topics by scrolling down.
 - Learn about how to take care of their cats.
-- - By going to the different topics you can find information about how to care for cats.
+  - By going to the different topics you can find information about how to care for cats.
 - Know how to send in a question for the Q&A section. 
-- - At the bottom of the Q&A section there are instructions on how to send in questions. An e-mail adress is provided.
+  - At the bottom of the Q&A section there are instructions on how to send in questions. An e-mail adress is provided.
 - Be able to find "about cats" on social media (note that due to this being a portfolio project, the social media links just links to the instagram and facebook home page. There are no social media accounts for "about cats" for the same reason.)
-- - In the footer there are links to social media (shown by the instagram and facebook icons).
+  - In the footer there are links to social media (shown by the instagram and facebook icons).
 
 ### Device testing
+The website was tested (manually with google dev tools) on the following devices:
+- iPhone SE (2nd generation)
+- iPhone 11 pro
+- iPhone 12/13 pro max
+- iPad
+- Galaxy S10
+- Galaxy S20 Ultra
+- Galaxy Note 20
+- Kindle Fire
+
+The website was tested on these devices:
+- Laptop (ACER Aspire 5)
+- Desktop (1440p)
+- iPhone SE (2nd generation)
+- iPad
 
 The background did show more the smaller the screen gets. I adressed this with my media querries. Depending on the screen size, the top margin for the main page changes. This way the background looks good regardless of screen size.
 
+### Browser testing
+The website was testen on these browsers:
+- Firefox
+- DuckDuckGo (browser)
+- Safari
+- Microsoft Edge
+- Google Crome
+
+No issues related to browsers were found.
+
 ### Validator testing
+#### Code
 - Tested HTML in the W3C validator. Returned no errors.
 - Tested CSS in the official Jigsaw validator. Found no errors.
+#### Contrast
+- Checked the contrast between the background and forground.
 
 ### Fixed bugs
 - I had a problem with getting the footer thru the validator without errors. This was because i had chosen to use a span around the footer's content instead of a div. But in the end I didnt use either (since i changed my mind about how i wanted it to look).
 - I also had a problem with my media querries. They would not work. This was because i had messed up a metta tag in the header of my HTML. When i fixed the meta tag, the media querries worked as expected and the CSS validator did not show any errors.
+
+### Peer review
+Asked one of my fellow students at Code Institute to take a look at my website. He found it responsive, but would like smaller images (this was before i changed the images). This was solved when i changed the images to smaller iones.
 
 ### Unfixed bugs
 - The "home button" links to the first paragraph, which means that when you click on it the background picture doesn't show. This has not been adressed yet due to the fact that i havn't decided how i want to adress it.
