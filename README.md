@@ -16,7 +16,7 @@ I want the user to:
 ### Colours
 - I chose to have a white background colour in order to make the text easier to read, and becuase i could focus more on pictures that way. 
 - For the navigation bar and the footer i chose to use a light green colour. This adds a "pop of colour" to the website. It also distinguises them from other parts of the site. 
-[Colour testing](assets/media/green_contrast_checker.PNG)
+![Colour testing](assets/media/green_contrast_checker.PNG)
 - In order to avoid the rest of the sections on the website looking to boring i used the topic images to separete the sections. This makes it more interesting.
 
 ### Structure and typography
@@ -54,7 +54,6 @@ I want the user to:
 
 ## Testing
 Tested all features on many different screen sizes. Also tried it on my phone with no problems. The page looks best on mobile, but looks and works well on every screen size. All features work as intended regardless of screen size and/or device. The navigation is easy to understand on all screen sizes.
-(insert picture of “amIResponsive” and mobile screenshots)
 
 ### User stories
 - Be able to figure out what the page is about right away.
@@ -102,7 +101,7 @@ No issues related to browsers were found.
 - Tested HTML in the W3C validator. Returned no errors.
 - Tested CSS in the official Jigsaw validator. Found no errors.
 #### Contrast
-- Checked the contrast between the background and forground.
+- Checked the contrast between the background and forground on [Accessibility Checker](https://www.accessibilitychecker.org/color-contrast-checker/).
 
 ### Fixed bugs
 - I had a problem with getting the footer thru the validator without errors. This was because i had chosen to use a span around the footer's content instead of a div. But in the end I didnt use either (since i changed my mind about how i wanted it to look).
@@ -125,12 +124,12 @@ This site was deployed to github pages.
 - Copy the link to your deployed website (can be found in hte github pages settings, where you chose which branch to build from) and make sure its operating as expected.
 - The deployed website will now be updated whe you push anything new to the repository.
 
-Link to the live website: https://11bus11.github.io/
+[live website](https://11bus11.github.io/)
 
 ## Credits
 ### Content and code
 - The code for the css grid was taken from one of my old projects (https://github.com/bus0211/wu2Bprojekt2020). Project from a web development course in socondary school. The reason it is forked from another user (my teacher) is that he wanted to have easy acces to the whole class' projects.
-- The icons in the footer was taken from Fontawesome (Link facebook icon: https://fontawesome.com/search?q=facebook&s=solid%2Cbrands Link instagram icon: https://fontawesome.com/icons/instagram?s=brands)
+- The icons in the footer was taken from Fontawesome (Link [facebook icon](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), Link [instagram icon](https://fontawesome.com/icons/instagram?s=brands)
 
 ### Media
 - All pictures used are either taken by me or a friend (he has given me permission to use the pictures on this website. Name: Robin Koelewijn).
