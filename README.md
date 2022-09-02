@@ -104,9 +104,9 @@ Asked one of my fellow students at Code Institute to take a look at my website. 
 ### Validator testing
 #### Code
 - Tested HTML in the W3C validator. Returned no errors.
-![CSS validation](assets/media/css_testing.PNG)
-- Tested CSS in the official Jigsaw validator. Found no errors.
 ![HTML validation](assets/media/html_testing.PNG)
+- Tested CSS in the official Jigsaw validator. Found no errors.
+![CSS validation](assets/media/css_testing.PNG)
 #### Contrast
 - Checked the contrast between the background and forground on [Accessibility Checker](https://www.accessibilitychecker.org/color-contrast-checker/).
 ![Colour testing](assets/media/green_contrast_checker.PNG)
