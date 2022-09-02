@@ -16,7 +16,6 @@ I want the user to:
 ### Colours
 - I chose to have a white background colour in order to make the text easier to read, and becuase i could focus more on pictures that way. 
 - For the navigation bar and the footer i chose to use a light green colour. This adds a "pop of colour" to the website. It also distinguises them from other parts of the site. 
-![Colour testing](assets/media/green_contrast_checker.PNG)
 - In order to avoid the rest of the sections on the website looking to boring i used the topic images to separete the sections. This makes it more interesting.
 
 ### Structure and typography
@@ -31,6 +30,7 @@ I want the user to:
 - Always visible at the top of the page.
 - The different buttons link to different topics on the page.
 - The round picture links to the top of the page.
+![Header/nav bar](assets/media/header_about_cats.PNG)
 
 ### Topic images
 - One image for every topic.
@@ -41,11 +41,13 @@ I want the user to:
 - Different information about cats.
 - Topics separated by images.
 - Q&A section.
+![Main section/topics](assets/media/main_about_cats.PNG)
 
 ### Footer
 - Contact information.
 - Links to social media (opens in new tab).
 - Copyright information.
+![Footer](assets/media/footer_about_cats.PNG)
 
 ## Features left to implement
 - Might want to add a form for sending in questions.
@@ -89,7 +91,7 @@ The background did show more the smaller the screen gets. I adressed this with m
 ### Browser testing
 The website was testen on these browsers:
 - Firefox
-- DuckDuckGo (browser)
+- DuckDuckGo (mobile browser)
 - Safari
 - Microsoft Edge
 - Google Crome
@@ -102,6 +104,7 @@ No issues related to browsers were found.
 - Tested CSS in the official Jigsaw validator. Found no errors.
 #### Contrast
 - Checked the contrast between the background and forground on [Accessibility Checker](https://www.accessibilitychecker.org/color-contrast-checker/).
+![Colour testing](assets/media/green_contrast_checker.PNG)
 
 ### Fixed bugs
 - I had a problem with getting the footer thru the validator without errors. This was because i had chosen to use a span around the footer's content instead of a div. But in the end I didnt use either (since i changed my mind about how i wanted it to look).
