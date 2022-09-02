@@ -14,6 +14,18 @@ I want the user to:
 - Know how to send in a question for the Q&A section. 
 - Be able to find "about cats" on social media (note that due to this being a portfolio project, the social media links just links to the instagram and facebook home page. There are no social media accounts for "about cats" for the same reason.)
 
+### Colours
+- I chose to have a white background colour in order to make the text easier to read, and becuase i could focus more on pictures that way. 
+- For the navigation bar and the footer i chose to use a light green colour. This adds a "pop of colour" to the website. It also distinguises them from other parts of the site. 
+(image of colours)
+- In order to avoid the rest of the sections on the website looking to boring i used the topic images to separete the sections. This makes it more interesting.
+
+### Layout
+- Due to only having three topic sections and a home page i chose to use a navigation bar on both the mobile- and desktop version. 
+- I also chose to use one page with different sections instead of multiple seperate ones. This was because it worked very well with the amount of content i have. If i had one page for each of the topics, the size of the pages would be a bit small. 
+- For the font i chose Lucida Sans (san serif). This was because i liked the way it looked with the rest of the style choices (not to rigid and not to playful). I used the san serif version because it is easier to read text in san serif on a screen (compared to text with serif). 
+- The margin on each side of the text is used to add "white space". The amount of white space varies depending on the size of the screen. This is to make the text space wide enough on smaller screens and avoid making the content hard to read (due to not having enough space for the text). 
+
 ## Features
 
 ### Navigation bar
