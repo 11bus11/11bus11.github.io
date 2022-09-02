@@ -76,7 +76,7 @@ The background did show more the smaller the screen gets. I adressed this with m
 This site was deployed to github pages.
 - Open the repository setting on.
 - Go to "pages" (found under "code and automation").
-- Choose which branch to build from (main).
+- Choose which branch to build from. You want to choose "main". Do not forget to save the settings.
 - (If needed, choose a custom domain)-
 - Open the repository in github desktop (i used github desktop. You can do this in git too.) 
 - Choose to create a local clone (the first time you open your repository in github desktop, there should be a window asking if you want to create a clone)
@@ -86,7 +86,7 @@ This site was deployed to github pages.
 Link to the live website: https://11bus11.github.io/
 
 ## Credits
-### Content
+### Content and code
 - The code for the css grid was taken from one of my old projects (https://github.com/bus0211/wu2Bprojekt2020). Project from a web development course in socondary school. The reason it is forked from another user (my teacher) is that he wanted to have easy acces to the whole class' projects.
 - The icons in the footer was taken from Fontawesome (Link facebook icon: https://fontawesome.com/search?q=facebook&s=solid%2Cbrands Link instagram icon: https://fontawesome.com/icons/instagram?s=brands)
 
