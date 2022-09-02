@@ -57,6 +57,18 @@ I want the user to:
 Tested all features on many different screen sizes. Also tried it on my phone with no problems. The page looks best on mobile, but looks and works well on every screen size. All features work as intended regardless of screen size and/or device. The navigation is easy to understand on all screen sizes.
 (insert picture of “amIResponsive” and mobile screenshots)
 
+### User stories
+- Be able to figure out what the page is about right away.
+- - When you first land on the page the background picture (showing an orange cat) and the home page is visible. The title on the home page is "About cats". 
+- Understamd how to navigate the site without any issues.
+- - The header contains a navigation bar with clear topics. And if you dont want to use that you can still get to the topics by scrolling down.
+- Learn about how to take care of their cats.
+- - By going to the different topics you can find information about how to care for cats.
+- Know how to send in a question for the Q&A section. 
+- - At the bottom of the Q&A section there are instructions on how to send in questions. An e-mail adress is provided.
+- Be able to find "about cats" on social media (note that due to this being a portfolio project, the social media links just links to the instagram and facebook home page. There are no social media accounts for "about cats" for the same reason.)
+- - In the footer there are links to social media (shown by the instagram and facebook icons).
+
 ### Device testing
 
 The background did show more the smaller the screen gets. I adressed this with my media querries. Depending on the screen size, the top margin for the main page changes. This way the background looks good regardless of screen size.
