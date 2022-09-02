@@ -3,6 +3,17 @@ When people adopt cats it can sometimes seem a bit daunting to learn the most im
 ![Responsice Mockup] 
 (assets/media/responsive_about_cats.PNG)
 
+## UX (user experience)
+My goal with the ux was to create a page that was easy to understand and easy to navigate. I also did not want the colours to be too boring, while still feeling minimalistic. On top of that I find that rounded pictures and topic images that fill the whole width of the browser window looks nice and modern. It also makes a simple site look more interesting. 
+
+### User stories
+I want the user to:
+- Be able to figure out what the page is about right away.
+- Understamd how to navigate the site without any issues.
+- Learn about how to take care of their cats.
+- Know how to send in a question for the Q&A section. 
+- Be able to find "about cats" on social media (note that due to this being a portfolio project, the social media links just links to the instagram and facebook home page. There are no social media accounts for "about cats" for the same reason.)
+
 ## Features
 
 ### Navigation bar
