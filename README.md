@@ -1,7 +1,6 @@
 # About cats
 When people adopt cats it can sometimes seem a bit daunting to learn the most important parts in caring for a cat. That’s when “About Cats” comes into the picture. The website is meant to be a source of important information to new and old cat owners. Have you for example adopted a second cat and don’t know how to introduce them to the old cat? Just send in a question or check if the question has already been answered in the Q&A section. Or you might be wondering if you need to clip your outdoor cat’s claw. Then all you need to do is check the Care section of the website. This is a site for all the basic knowledge you need to care for a cat. 
-![Responsice Mockup] 
-(assets/media/responsive_about_cats.PNG)
+![Responsive Mockup](assets/media/responsive_about_cats.PNG)
 
 ## UX (user experience)
 My goal with the ux was to create a page that was easy to understand and easy to navigate. I also did not want the colours to be too boring, while still feeling minimalistic. On top of that I find that rounded pictures and topic images that fill the whole width of the browser window looks nice and modern. It also makes a simple site look more interesting. 
