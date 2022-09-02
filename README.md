@@ -20,7 +20,7 @@ I want the user to:
 (image of colours)
 - In order to avoid the rest of the sections on the website looking to boring i used the topic images to separete the sections. This makes it more interesting.
 
-### Layout
+### Structure and typography
 - Due to only having three topic sections and a home page i chose to use a navigation bar on both the mobile- and desktop version. 
 - I also chose to use one page with different sections instead of multiple seperate ones. This was because it worked very well with the amount of content i have. If i had one page for each of the topics, the size of the pages would be a bit small. 
 - For the font i chose Lucida Sans (san serif). This was because i liked the way it looked with the rest of the style choices (not to rigid and not to playful). I used the san serif version because it is easier to read text in san serif on a screen (compared to text with serif). 
