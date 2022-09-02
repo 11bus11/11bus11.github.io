@@ -98,10 +98,15 @@ The website was testen on these browsers:
 
 No issues related to browsers were found.
 
+### Peer review
+Asked one of my fellow students at Code Institute to take a look at my website. He found it responsive, but would like smaller images (this was before i changed the images). This was solved when i changed the images to smaller iones.
+
 ### Validator testing
 #### Code
 - Tested HTML in the W3C validator. Returned no errors.
+![CSS validation](assets/media/css_testing.PNG)
 - Tested CSS in the official Jigsaw validator. Found no errors.
+![HTML validation](assets/media/html_testing.PNG)
 #### Contrast
 - Checked the contrast between the background and forground on [Accessibility Checker](https://www.accessibilitychecker.org/color-contrast-checker/).
 ![Colour testing](assets/media/green_contrast_checker.PNG)
@@ -110,11 +115,9 @@ No issues related to browsers were found.
 - I had a problem with getting the footer thru the validator without errors. This was because i had chosen to use a span around the footer's content instead of a div. But in the end I didnt use either (since i changed my mind about how i wanted it to look).
 - I also had a problem with my media querries. They would not work. This was because i had messed up a metta tag in the header of my HTML. When i fixed the meta tag, the media querries worked as expected and the CSS validator did not show any errors.
 
-### Peer review
-Asked one of my fellow students at Code Institute to take a look at my website. He found it responsive, but would like smaller images (this was before i changed the images). This was solved when i changed the images to smaller iones.
-
 ### Unfixed bugs
 - The "home button" links to the first paragraph, which means that when you click on it the background picture doesn't show. This has not been adressed yet due to the fact that i havn't decided how i want to adress it.
+![Unfixed bug](assets/media/bug.PNG)
 
 ### Deployment
 This site was deployed to github pages.
