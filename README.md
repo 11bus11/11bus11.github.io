@@ -78,13 +78,14 @@ The website was tested (manually with google dev tools) on the following devices
 - Galaxy S10
 - Galaxy S20 Ultra
 - Galaxy Note 20
-- Kindle Fire
 
 The website was tested on these devices:
 - Laptop (ACER Aspire 5)
 - Desktop (1440p)
 - iPhone SE (2nd generation)
+![iPhone header](assets/media/header_mobile.PNG) ![iPhone footer](assets/media/footer_mobile.PNG)
 - iPad
+![iPad header](assets/media/header_ipad.png) ![iPad footer](assets/media/footer_ipad.png)
 
 The background did show more the smaller the screen gets. I adressed this with my media querries. Depending on the screen size, the top margin for the main page changes. This way the background looks good regardless of screen size.
 
