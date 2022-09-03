@@ -141,3 +141,8 @@ This site was deployed to github pages.
 ### Media
 - All pictures used are either taken by me or a friend (he has given me permission to use the pictures on this website. Name: Robin Koelewijn).
 - Robin Koelewijn has taken the topic image for the Q&A, and the image above the footer.
+
+### README
+- The readme is inspired by the [readme template](https://github.com/Code-Institute-Solutions/readme-template) provided by Code institute, and a readme written by [Tasha Taylor Johnson](https://github.com/TashaTJ/pawsome-portraits-v4). Tasha's readme was provided to me by my mentor Harry Dhillon.
+
+Erik Vodopivec Forsman, 2022
