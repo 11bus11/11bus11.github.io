@@ -112,6 +112,8 @@ Asked one of my fellow students at Code Institute to take a look at my website. 
 #### Contrast
 - Checked the contrast between the background and forground on [Accessibility Checker](https://www.accessibilitychecker.org/color-contrast-checker/).
 ![Colour testing](assets/media/green_contrast_checker.PNG)
+- Used lighthouse to check (among other things) the accessibility.
+![Lighthouse](assets/media/lighthouse_cats.PNG)
 
 ### Fixed bugs
 - I had a problem with getting the footer thru the validator without errors. This was because i had chosen to use a span around the footer's content instead of a div. But in the end I didnt use either (since i changed my mind about how i wanted it to look).
@@ -136,7 +138,7 @@ This site was deployed to github pages.
 
 ## Credits
 ### Content and code
-- The code for the css grid was taken from one of my old projects (https://github.com/bus0211/wu2Bprojekt2020). Project from a web development course in socondary school. The reason it is forked from another user (my teacher) is that he wanted to have easy acces to the whole class' projects.
+- The code for the css grid was taken from one of [my old projects](https://github.com/bus0211/wu2Bprojekt2020). Project from a web development course in socondary school. The reason it is forked from another user (my teacher) is that he wanted to have easy acces to the whole class' projects.
 - The icons in the footer was taken from Fontawesome (Link [facebook icon](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), Link [instagram icon](https://fontawesome.com/icons/instagram?s=brands)
 
 ### Media
