@@ -122,6 +122,7 @@ Asked one of my fellow students at Code Institute to take a look at my website. 
 ### Unfixed bugs
 - The "home button" links to the first paragraph, which means that when you click on it the background picture doesn't show. This has not been adressed yet due to the fact that i havn't decided how i want to adress it.
 ![Unfixed bug](assets/media/bug.PNG)
+- The nav bar is not propperly centered on mobile. I have put the same margin on both the left snd right side, but it is not centered. This has not been looked into yet since it does not affect the functionallity, and I have not figured out what the problem is yet.
 
 ### Deployment
 This site was deployed to github pages.
@@ -139,7 +140,7 @@ This site was deployed to github pages.
 ## Credits
 ### Content and code
 - The code for the css grid was taken from one of [my old projects](https://github.com/bus0211/wu2Bprojekt2020). Project from a web development course in socondary school. The reason it is forked from another user (my teacher) is that he wanted to have easy acces to the whole class' projects.
-- The icons in the footer was taken from Fontawesome (Link [facebook icon](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), Link [instagram icon](https://fontawesome.com/icons/instagram?s=brands)
+- The icons in the footer was taken from Fontawesome (Link [facebook icon](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), Link [instagram icon](https://fontawesome.com/icons/instagram?s=brands))
 
 ### Media
 - All pictures used are either taken by me or a friend (he has given me permission to use the pictures on this website. Name: Robin Koelewijn).
