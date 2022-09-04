@@ -17,6 +17,7 @@ I want the user to:
 - I chose to have a white background colour in order to make the text easier to read, and becuase i could focus more on pictures that way. 
 - For the navigation bar and the footer i chose to use a light green colour. This adds a "pop of colour" to the website. It also distinguises them from other parts of the site. 
 - In order to avoid the rest of the sections on the website looking to boring i used the topic images to separete the sections. This makes it more interesting.
+![Colour palette](assets/media/colour_palette_1.png)
 
 ### Structure and typography
 - Due to only having three topic sections and a home page i chose to use a navigation bar on both the mobile- and desktop version. 
