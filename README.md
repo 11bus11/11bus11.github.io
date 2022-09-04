@@ -101,7 +101,10 @@ The website was testen on these browsers:
 No issues related to browsers were found.
 
 ### Peer review
-Asked one of my fellow students at Code Institute to take a look at my website. He found it responsive, but would like smaller images (this was before i changed the images). This was solved when i changed the images to smaller iones.
+Asked a few of my fellow students at Code Institute to take a look at my website. 
+- One found it responsive, but would like smaller images (this was before i changed the images). This was solved when i changed the images to smaller ones.
+- Another one noted the issue with the off center nav bar on mobile (more info in unresolved bugs). He also thought I should consider having a background on the nav.
+- A third said the website was very responsive and liiked clean. 
 
 ### Validator testing
 #### Code
