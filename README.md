@@ -71,7 +71,7 @@ Tested all features on many different screen sizes. Also tried it on my phone wi
   - In the footer there are links to social media (shown by the instagram and facebook icons).
 
 ### Device testing
-The website was tested (manually with google dev tools) on the following devices:
+The website was tested (manually with Mozilla dev tools) on the following devices:
 - iPhone SE (2nd generation)
 - iPhone 11 pro
 - iPhone 12/13 pro max
