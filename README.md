@@ -2,6 +2,8 @@
 When people adopt cats it can sometimes seem a bit daunting to learn the most important parts in caring for a cat. That’s when “About Cats” comes into the picture. The website is meant to be a source of important information to new and old cat owners. Have you for example adopted a second cat and don’t know how to introduce them to the old cat? Just send in a question or check if the question has already been answered in the Q&A section. Or you might be wondering if you need to clip your outdoor cat’s claw. Then all you need to do is check the Care section of the website. This is a site for all the basic knowledge you need to care for a cat. 
 ![Responsive Mockup](assets/media/am_i_responsive_about_cats.PNG)
 
+I want to note that the early commits are very undescriptive. My mentor made me aware of the problem, which resulted in me making more descriptive and informative commits. This means that the later commits are of way better quality than the early ones.
+
 ## UX (user experience)
 My goal with the ux was to create a page that was easy to understand and easy to navigate. I also did not want the colours to be too boring, while still feeling minimalistic. On top of that I find that rounded pictures and topic images that fill the whole width of the browser window looks nice and modern. It also makes a simple site look more interesting. 
 
@@ -138,7 +140,7 @@ This site was deployed to github pages.
 - Copy the link to your deployed website (can be found in hte github pages settings, where you chose which branch to build from) and make sure its operating as expected.
 - The deployed website will now be updated whe you push anything new to the repository.
 
-[live website](https://11bus11.github.io/)
+[Live website](https://11bus11.github.io/about-cats/)
 
 ## Credits
 ### Content and code
