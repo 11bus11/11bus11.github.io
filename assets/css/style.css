@@ -133,7 +133,7 @@ a {
     margin-right: 15px;
 }
 
-/*tablets and smaller windows css*/
+/*media querry, tablets and smaller windows*/
 @media screen and (max-width: 900px) and (min-width: 650px){
     /*Grid area CSS*/
     main {
@@ -153,8 +153,7 @@ a {
     }
 }
 
-
-/*mobile phones css*/
+/*media querry, mobile phones*/
 @media screen and (max-width: 650px) {
     /*grid area css*/
     main {
